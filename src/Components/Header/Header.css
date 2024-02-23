@@ -1,0 +1,13 @@
+.header{
+    height: 90px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.info a{
+    margin-left: 40px;
+    
+}
